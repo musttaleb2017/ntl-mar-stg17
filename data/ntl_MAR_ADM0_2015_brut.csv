@@ -1,0 +1,2 @@
+shapeID,name,area_km2,n_pixels,sol,rad_km2,sol_per_km2,mean_rad,median_rad,p90_rad,max_rad,lit_area_km2,lit_share,core_area_km2,core_share,pop,pop_inhabited,pop_lit,pop_dark,pop_lit_share,pop_density,sol_per_capita,gini_pixels,gini_pop_light,cv_rad,sol_share_nat,pop_share_nat,light_pop_ratio
+5654995B609903263945,Morocco,680536,349441,80622.9,150472,0.11847,0.23072,0,0,147.76,41763.6,0.0613686,3088.82,0.0045388,3.33004e+07,3.32848e+07,2.55748e+07,7.70999e+06,0.768363,48.9326,0.00242108,0.983698,0.632404,11.7903,1,1,1
